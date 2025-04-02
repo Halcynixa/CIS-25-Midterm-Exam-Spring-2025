@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
 	string array [10]; // declare array size of 10
-	int x = 0;
-	string input;
+	int x = 0; // set value for while loop
+	string input; // set value for cin
 	while (x < 10) {
 		cout << "Enter something until array is full: \n";
 		cin >> input;
