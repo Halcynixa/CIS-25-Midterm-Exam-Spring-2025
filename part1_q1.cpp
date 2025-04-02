@@ -2,7 +2,7 @@
 using namespace std;
 
 float calculateArea(float length, float width) {
-	return length * width; // Multiply the length and width together, as that's how you find the area of a rectangle
+	return length * width; // return product of length and width together
 }
 
 int main() {
