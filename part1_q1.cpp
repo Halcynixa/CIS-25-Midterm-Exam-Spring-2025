@@ -2,7 +2,7 @@
 using namespace std;
 
 float calculateArea(float length, float width) {
-	return length * width; // return product of length and width together
+	return length * width; // return product of length and width
 }
 
 int main() {
